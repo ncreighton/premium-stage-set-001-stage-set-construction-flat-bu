@@ -1,0 +1,2 @@
+# premium-stage-set-001-stage-set-construction-flat-bu
+Stop losing track of your flats mid-build. If you've ever had a flat show up at the wrong stage or watched your crew waste hours hunting for assembly docs, this tracker gives you one source of truth from lumber to load-in.  This Notion template eliminates the chaos of scattered spreadsheets and paper lists by centralizing every flat's build status,
